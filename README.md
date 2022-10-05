@@ -1,5 +1,5 @@
 ![alt text](images/python_logo.ico) 
-# Python Code Tutorials
+# Python Code Tutorials 
 This is a repository of all the tutorials of [The Python Code](https://www.thepythoncode.com) website.
 ## List of Tutorials
 - ### [Ethical Hacking](https://www.thepythoncode.com/topic/ethical-hacking)
